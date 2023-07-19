@@ -4,7 +4,7 @@ title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
-You can also find my full publication list on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.
+You can find my full publication list on [Scholar profile](https://scholar.google.com/citations?hl=en&user=nGrpGjkAAAAJ)
 
 {% include base_path %}
 
