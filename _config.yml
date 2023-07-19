@@ -219,7 +219,7 @@ defaults:
       comments: true
   # _publications
   - scope:
-      path: "wenliangguo.github.io/publications/"
+      path: ""
       type: publications
     values:
       layout: single
