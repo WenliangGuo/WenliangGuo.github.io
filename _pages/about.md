@@ -14,6 +14,7 @@ Wenliang Guo is a master's student in Electrical Engineering program at Columbia
 His research interests lie in computer vision and natural laanguage processing, especially in multi-modal, representation learning, video understanding and high-level tasks.
 
 <font color=red> I am looking for a PhD position starting from Fall 2024 or Spring 2025. Please feel free to contact me if you are interested in my background.</font>
+&nbsp;
 
 # News
 
