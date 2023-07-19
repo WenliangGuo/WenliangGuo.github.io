@@ -12,8 +12,8 @@ title_separator          : "-"
 name                     : &name "Wenliang Guo"
 description              : &description "personal description"
 url                      : "https://wenliangguo.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "https://wenliangguo.github.io" # the subpath of your site, e.g. "/blog"
-repository               : "WenliangGuo/WenliangGuo.github.io"
+baseurl                  : "/home" # the subpath of your site, e.g. "/blog"
+repository               : "https://github.com/WenliangGuo/WenliangGuo.github.io.git"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -219,7 +219,7 @@ defaults:
       comments: true
   # _publications
   - scope:
-      path: ""
+      path: "wenliangguo.github.io/publications/"
       type: publications
     values:
       layout: single
