@@ -1,7 +1,6 @@
 ---
 title: "A Swin Transformer-Based Encoding Booster Integrated in U-Shaped Network for Building Extraction"
 collection: publications
-excerpt: [[Paper](https://www.mdpi.com/2072-4292/14/11/2611)] [[Code](https://github.com/WenliangGuo/STEB-UNet)]
 date: 2022-05-29
 venue: 'MDPI Remote Sensing'
 paperurl: 'https://www.mdpi.com/2072-4292/14/11/2611'
