@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Wenliang Guo"
-  avatar           : "images/avatar.png"
+  avatar           : "avatar.png"
   bio              : "Master's Student at Columbia University"
   location         : "New York, US"
   employer         :
