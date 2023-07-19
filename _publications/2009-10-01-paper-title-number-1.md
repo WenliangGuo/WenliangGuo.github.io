@@ -1,7 +1,6 @@
 ---
 title: "Heterogeneous Attention Nested U-Shaped Network for Blur Detection"
 collection: publications
-date: 2021-11-16
 ---
 **Wenliang Guo**, Xiao Xiao, Yilong Hui, Wenming Yang, Amir Sadovnik
 
