@@ -3,7 +3,6 @@ title: "A Swin Transformer-Based Encoding Booster Integrated in U-Shaped Network
 collection: publications
 date: 2022-05-29
 venue: 'MDPI Remote Sensing'
-paperurl: 'https://www.mdpi.com/2072-4292/14/11/2611'
 ---
 Xiao Xiao, **Wenliang Guo**, Rui Chen, Yilong Hui, Jianing Wang, Hongyu Zhao
 
