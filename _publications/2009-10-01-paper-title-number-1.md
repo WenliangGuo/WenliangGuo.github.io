@@ -2,7 +2,7 @@
 title: "Heterogeneous Attention Nested U-Shaped Network for Blur Detection"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-date: 2021
+date: 2021-11-16
 paperurl: 'https://ieeexplore.ieee.org/document/9616415'
 Network for Blur Detection, IEEE Signal Processing Letters 29 (2021): 140-144.'
 ---
