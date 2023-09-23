@@ -11,3 +11,4 @@ redirect_from:
 
 [Resume (in Chinese)](../files/郭文亮_简历.pdf)
 
+[Research Statement](../files/research_statement.pdf)
