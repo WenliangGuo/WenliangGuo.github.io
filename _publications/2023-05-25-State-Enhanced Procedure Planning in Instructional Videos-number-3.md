@@ -1,11 +1,11 @@
 ---
-title: "State-Enhanced Procedure Planning in Instructional Videos"
+title: "SCHEMA: State CHangEs MAtter for Procedure Planning in Instructional Videos"
 collection: publications
 date: 2023-05-25
-venue: 'Preprint'
+venue: 'Under Review'
 ---
 Yulei Niu, **Wenliang Guo**, Long Chen, Xudong Lin, Shih-Fu Chang
 
-[[Paper](https://openreview.net/forum?id=5FeRi11ARd)] 
+[[Paper](https://openreview.net/forum?id=abL5LJNZ49)] 
 
-Abstract: We study the problem of procedure planning in instructional videos, which requires the agent to produce a sequence of instruction steps to achieve a goal given the visual state observations. Recent works succeed in utilizing only action step annotations without state annotations, which leaves an open question about how the state information should be represented and utilized. In this work, we proposed to enhance state representation and reasoning for procedure planning. For state representation, we leveraged large language models (i.e., GPT-3) to describe the state changes of steps, which guides state representation learning via cross-modal contrastive learning. For state reasoning, we break up procedure planning into subproblems of subgoal decomposition and action step prediction, and use the generated state descriptions as external memory of Transformer models. We further conduct experimental analysis on the CrossTask and COIN benchmark datasets to demonstrate that our proposed state representation and reasoning methods not only promote procedure planning, but can conduct explainable state understanding.
+Abstract: We study the problem of procedure planning in instructional videos, which aims to make a goal-oriented sequence of action steps given partial visual state observations. The motivation of this problem is to learn a structured and plannable state and action space. Recent works succeeded in sequence modeling of steps with only sequence-level annotations accessible during training, which overlooked the roles of states in the procedures. In this work, we point out that State CHangEs MAtter (SCHEMA) for procedure planning in instructional videos. We aim to establish a more structured state space by investigating the causal relations between steps and states in procedures. Specifically, we explicitly represent each step as state changes and track the state changes in procedures. For step representation, we leveraged the commonsense knowledge in large language models (LLMs) to describe the state changes of steps via our designed chain-of-thought prompting. For state changes tracking, we align visual state observations with language state descriptions via cross-modal contrastive learning, and explicitly model the intermediate states of the procedure using LLM-generated state descriptions. Experiments on CrossTask, COIN, and NIV benchmark datasets demonstrate that our proposed SCHEMA model achieves state-of-the-art performance and obtains explainable visualizations.
