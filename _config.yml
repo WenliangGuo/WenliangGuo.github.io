@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Wenliang Guo"
   avatar           : "avatar.png"
-  bio              : "Master's Student at Columbia University"
+  bio              : 
   location         : "New York, US"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=nGrpGjkAAAAJ"
-  email            : "wg2397@columbia.edu"
+  email            : "wlguo048@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
