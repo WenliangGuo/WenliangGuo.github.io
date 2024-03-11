@@ -2,7 +2,7 @@
 title: "SCHEMA: State CHangEs MAtter for Procedure Planning in Instructional Videos"
 collection: publications
 date: 2024-01-16
-venue: 'ICLR 2024 (Poster)'
+venue: 'ICLR (Poster)'
 ---
 Yulei Niu, **Wenliang Guo**, Long Chen, Xudong Lin, Shih-Fu Chang
 
