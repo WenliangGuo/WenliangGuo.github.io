@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Wenliang Guo"
   avatar           : "avatar.png"
-  bio              : "PhD Student@MSU"
+  bio              : "PhD Student of Computer Science"
   location         : "East Lansing, MI, US"
   employer         : "Michigan State University"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=nGrpGjkAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=pvB-ykIAAAAJ"
   email            : "guowenli@msu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
