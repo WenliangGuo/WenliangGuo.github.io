@@ -7,6 +7,7 @@ venue: "Michigan State University, CSE Department"
 date: 2025-07-10
 location: "Engineering Building"
 ---
+
 ## Responsibility
 Co-organizer and Presenter
 

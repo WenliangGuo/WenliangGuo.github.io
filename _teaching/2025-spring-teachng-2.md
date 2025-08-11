@@ -7,8 +7,8 @@ venue: "Michigan State University, CSE Department"
 date: 2025-02-01
 location: "Natural Resources Bldg Rm 158 (Tuesday) and Human Ecology Bldg 300 (Thursday)"
 ---
-## Responsibility
 
+## Responsibility
 Teaching Assistant
 
 ## Course Website

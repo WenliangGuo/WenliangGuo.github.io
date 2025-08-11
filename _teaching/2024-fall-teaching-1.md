@@ -7,8 +7,8 @@ venue: "Michigan State University, CSE Department"
 date: 2024-09-01
 location: "EB1145"
 ---
-## Responsibility
 
+## Responsibility
 Teaching Assistant
 
 ## Course Website
