@@ -2,7 +2,7 @@
 title: "CSE 402 Biometrics and Pattern Recognition (Fall 2024)"
 collection: teaching
 type: "Undergraduate course"
-permalink: [Course Link](https://www.egr.msu.edu/~yukong/teaching/FS2024/)
+permalink: /teaching/2024-fall-teaching-1
 venue: "Michigan State University, CSE Department"
 date: 2024-09-01
 location: "EB1145"
@@ -11,11 +11,14 @@ location: "EB1145"
 
 Teaching Assistant
 
-## Course Description:
+## Course Website
+[CSE 402 Fall 2024](https://www.egr.msu.edu/~yukong/teaching/FS2024/)
+
+## Course Description
 
 Biometrics refers to the science of recognizing humans by utilizing the physical (e.g., fingerprint, face, iris) or behavioral (e.g., gait, signature) traits of an individual. This course will discuss several of these traits and the automated techniques used for feature extraction and matching. The focus will be on automated face, fingerprint and iris recognition. The error metrics used to evaluate the performance of a biometric system will be discussed. Topics related to multimodal biometrics, protecting biometric templates, and biometric data privacy will also be presented. The programming projects will be geared toward implementing basic feature extraction and matching algorithms.
 
-## Course Objective:
+## Course Objective
 
 To equip students with a good knowledge of:
 (a) the design and working of a generic biometric system;

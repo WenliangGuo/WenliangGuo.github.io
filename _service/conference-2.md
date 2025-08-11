@@ -1,6 +1,6 @@
 ---
 title: "Service for Conferences"
-
+permalink: /service/journal-2
 collection: service
 ---
 ## Reviewer
