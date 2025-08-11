@@ -180,7 +180,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  Service:
+  service:
     output: true
     permalink: /:collection/:path/
   # portfolio:
