@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-spring-teachng-2
 venue: "Michigan State University, CSE Department"
-date: 2025-02-01
+date: 2026-02-01
 location: "Natural Resources Bldg Rm 158 (Tuesday) and Human Ecology Bldg 300 (Thursday)"
 ---
 **Responsibility**: Teaching Assistant
