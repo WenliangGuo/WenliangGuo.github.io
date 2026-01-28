@@ -1,13 +1,14 @@
 ---
 title: "Procedural Mistake Detection via Action Effect Modeling"
 collection: publications
-date: 2025-08-07
-venue: "Under Review"
+date: 2026-01-25
+venue: 'ICLR'
 ---
 **Wenliang Guo**, Yiujiang Pu, Yu Kong
 
 <!-- [[Paper](https://ieeexplore.ieee.org/document/9616415)] 
 [[Code](https://github.com/WenliangGuo/HANUN)] -->
+
 [[Website](https://wenliangguo.github.io/Mistake_Detection/)]
 
-Abstract:Mistake detection in procedural tasks is essential for developing intelligent assistive agents that enhance learning and task execution. Existing methods predominantly focus on analyzing how an action is performed, while overlooking what it produces, i.e., the action effect. However, execution mistakes often manifest not in the action itself but in its outcome, such as an unintended object state or an incorrect spatial arrangement. To address this, we introduce Action Effect Modeling (AEM), a unified framework that jointly captures action execution and its effects from a causal perspective. AEM first identifies the outcome of an action by selecting the most informative effect frame based on semantic relevance and visual quality. It then extracts complementary cues from visual grounding and symbolic scene graphs, aligning them in a shared latent space to form robust effect-aware representations. To detect mistakes, we design a prompt-based detector that incorporates task-specific prompts and aligns each action segment with its intended execution semantics. Our approach outperforms prior work on the EgoPER and CaptainCook4D benchmarks under the challenging One-Class Classification (OCC) setting. These results highlight the importance of jointly modeling execution and effect for accurate mistake detection in real-world procedural tasks.
+Abstract: Mistake detection in procedural tasks is essential for building intelligent systems that support learning and task execution. Existing approaches primarily analyze how an action is performed, while overlooking what it produces, i.e., the action effect}. Yet many errors manifest not in the execution itself but in the resulting outcome, such as an unintended object state or incorrect spatial arrangement. To address this gap, we propose Action Effect Modeling (AEM), a unified framework that jointly captures action execution and its outcomes through a probabilistic formulation. AEM first identifies the outcome of an action by selecting the most informative effect frame based on semantic relevance and visual quality. It then extracts complementary cues from visual grounding and symbolic scene graphs, aligning them in a shared latent space to form robust effect-aware representations. To detect mistakes, we further design a prompt-based detector that incorporates task-specific prompts and aligns each action segment with its intended execution semantics. Our approach achieves state-of-the-art performance on the EgoPER and CaptainCook4D benchmarks under the challenging one-class classification (OCC) setting. These results demonstrate that modeling both execution and outcome yields more reliable mistake detection, and highlight the potential of effect-aware representations to benefit a broader range of downstream applications.

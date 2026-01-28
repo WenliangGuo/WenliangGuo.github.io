@@ -1,5 +1,5 @@
 ---
-title: "CSE 440 Introduction to AI (Spring 2025)"
+title: "CSE 440 Introduction to AI (Spring 2026)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-spring-teachng-2
@@ -11,7 +11,7 @@ location: "Natural Resources Bldg Rm 158 (Tuesday) and Human Ecology Bldg 300 (T
 
 ## Course Website
 
-[CSE 440 Spring 2025](https://www.egr.msu.edu/~yukong/teaching/SS2025/)
+[CSE 440 Spring 2026](https://www.egr.msu.edu/~yukong/teaching/SS2025/)
 
 ## Course Description
 
