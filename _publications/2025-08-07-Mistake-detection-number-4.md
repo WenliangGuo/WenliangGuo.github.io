@@ -3,6 +3,11 @@ title: "Procedural Mistake Detection via Action Effect Modeling"
 collection: publications
 date: 2026-01-25
 venue: 'ICLR'
+badge: "ICLR'26"
+image: publications/AEM.png
+paperurl: 'https://arxiv.org/abs/2512.03474'
+code: 'https://github.com/WenliangGuo/AEM'
+website: 'https://wenliangguo.github.io/Mistake_Detection/'
 ---
 **Wenliang Guo**, Yiujiang Pu, Yu Kong
 

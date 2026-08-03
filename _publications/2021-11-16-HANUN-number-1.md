@@ -3,6 +3,10 @@ title: "Heterogeneous Attention Nested U-Shaped Network for Blur Detection"
 collection: publications
 date: 2021-11-16
 venue: "IEEE Signal Processing Letter"
+badge: "SPL'21"
+image: publications/HANUN.png
+paperurl: 'https://ieeexplore.ieee.org/document/9616415'
+code: 'https://github.com/WenliangGuo/HANUN'
 ---
 **Wenliang Guo**, Xiao Xiao, Yilong Hui, Wenming Yang, Amir Sadovnik
 

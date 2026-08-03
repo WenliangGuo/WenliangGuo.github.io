@@ -3,6 +3,10 @@ title: "SCHEMA: State CHangEs MAtter for Procedure Planning in Instructional Vid
 collection: publications
 date: 2024-01-16
 venue: 'ICLR'
+badge: "ICLR'24"
+image: publications/schema.png
+paperurl: 'https://arxiv.org/pdf/2403.01599.pdf'
+code: 'https://github.com/WenliangGuo/SCHEMA'
 ---
 Yulei Niu, **Wenliang Guo**, Long Chen, Xudong Lin, Shih-Fu Chang
 

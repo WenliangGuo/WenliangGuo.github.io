@@ -1,2 +1,21 @@
+# Jekyll build output
 _site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
 
+# Bundler / locally installed gems
+# (GitHub Pages ignores Gemfile.lock and pins its own gem versions)
+Gemfile.lock
+.bundle/
+vendor/
+
+# macOS
+.DS_Store
+._*
+
+# Editors and misc
+.Rhistory
+.ipynb_checkpoints/
+*.swp
+*~

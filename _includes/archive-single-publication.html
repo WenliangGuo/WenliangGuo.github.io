@@ -1,0 +1,46 @@
+{% include base_path %}
+
+{% assign pub_image = post.image | default: post.header.teaser %}
+
+<div class="list__item">
+  <article class="archive__item publication" itemscope itemtype="http://schema.org/ScholarlyArticle">
+
+    <div class="publication__teaser">
+      {% if pub_image %}
+        <img src=
+          {% if pub_image contains "://" %}
+            "{{ pub_image }}"
+          {% else %}
+            "{{ pub_image | prepend: "/images/" | prepend: base_path }}"
+          {% endif %}
+          alt="{{ post.title | escape }}">
+      {% else %}
+        <span class="publication__teaser--empty" aria-hidden="true"><i class="fas fa-image"></i></span>
+      {% endif %}
+      {% if post.badge %}<span class="publication__badge">{{ post.badge }}</span>{% endif %}
+    </div>
+
+    <div class="publication__info">
+      <h2 class="archive__item-title publication__title" itemprop="headline">
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>
+      </h2>
+
+      {% if post.authors %}
+        <p class="publication__authors">{{ post.authors | markdownify | remove: "<p>" | remove: "</p>" }}</p>
+      {% elsif post.excerpt %}
+        <p class="publication__authors">{{ post.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</p>
+      {% endif %}
+
+      <p class="publication__venue">{{ post.venue }}, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
+
+      {% if post.paperurl or post.code or post.website %}
+        <p class="publication__links">
+          {% if post.paperurl %}<a href="{{ post.paperurl }}">Paper</a>{% endif %}
+          {% if post.code %}<a href="{{ post.code }}">Code</a>{% endif %}
+          {% if post.website %}<a href="{{ post.website }}">Website</a>{% endif %}
+        </p>
+      {% endif %}
+    </div>
+
+  </article>
+</div>
