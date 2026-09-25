@@ -16,6 +16,8 @@ My research interests lie in computer vision and natural language processing, in
 
 # News
 
+[09/2026] &ensp;One paper is accepted by NeurIPS 2026 ED Track. See U in Atlanta!
+
 [01/2026] &ensp;One paper is accepted by ICLR 2026.
 
 [08/2024] &ensp;Start my new journey at Action Lab@MSU, East Lansing.

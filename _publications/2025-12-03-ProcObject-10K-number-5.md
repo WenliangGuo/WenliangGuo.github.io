@@ -1,9 +1,9 @@
 ---
 title: "ProcObject-10K: Benchmarking Object-Centric Procedural Understanding in Instructional Videos"
 collection: publications
-date: 2025-12-03
-venue: 'arXiv preprint'
-badge: "arXiv'25"
+date: 2026-09-25
+venue: 'NeurIPS ED Track'
+badge: "NeurIPS'26"
 image: publications/procobject-10k.png
 paperurl: 'https://arxiv.org/abs/2512.03479'
 ---
