@@ -16,7 +16,7 @@ My research interests lie in computer vision and natural language processing, in
 
 # News
 
-[09/2026] &ensp;Our new preprint on physics-aware hand-object interaction reconstruction is now available on [arXiv](https://arxiv.org/abs/2609.36454).
+[09/2026] &ensp;Two new works, [DynamicHOI](https://arxiv.org/abs/2609.36454) and [StairVLA](https://arxiv.org/abs/2610.07756), are now available on arXiv.
 
 [09/2026] &ensp;One paper is accepted by NeurIPS 2026 ED Track. See U in Atlanta!
 
